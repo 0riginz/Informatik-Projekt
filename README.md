@@ -1,1 +1,2 @@
 # Informatik-Projekt
+Denis Brendel
