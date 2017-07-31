@@ -1,3 +1,3 @@
 # Informatik-Projekt
-Denis Brendel
-Marcel Maison 
+Denis Brendel.
+Marcel Maison .
