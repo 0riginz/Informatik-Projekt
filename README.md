@@ -13,6 +13,12 @@
 * [Nicolai Parlog](https://github.com/nicolaiparlog)
 
 
+	Das Schreiben des Codes dieser Simulation erfolgt auf Englisch.
+	Kommentare im Code sind auf Deutsch.
+	Konversation auf Github ist auf Deutsch.
+	Die Aufgabenstellung in der README.md wurde von Nicolai Parlog erstellt und ist daher auf Englisch, ansonsten wird in README.md Deutsch verwendet.
+
+
 	
 	
 # Aufgabenstellung
@@ -119,4 +125,8 @@ Extend Simulation with various Paticipants
 When all that's done:
 
 *   release version 4.0
+
+
+
+#	Code of Conduct
 
