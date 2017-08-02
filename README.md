@@ -130,3 +130,4 @@ When all that's done:
 
 #	Code of Conduct
 
+Der Verhaltenskodex wird in der Datei "Code_of_Conduct.md" erläutert. Es handelt sich um einen standardisierten Code of Conduct, der bereits von GitHub zur Verfügung gestellt wird.
