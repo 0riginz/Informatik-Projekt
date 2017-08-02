@@ -35,7 +35,6 @@ To develop the project, a lot of tasks have to be completed. Some requirements o
 	
 	Project Infrastructure
 	
-
 *   create a README.md describing the project and listing your names (they do not have to be real names if you don’t want; GitHub user names are fine as well)
 *   add a license and document it in the README
 *   decide on a language (e.g. by discussing it on the issue that belongs to this task) and document it in the README:
