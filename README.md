@@ -7,26 +7,26 @@
 * [Marcel Maison](https://github.com/FrEeDoM-Sc2 "Link zum GitHub-Profil von Marcel Maison")
 
 
-	Die Erstellung dieses Projekts ist Teil der Vorlesung "Informatik B" im Sommersemester 2017 an der TH Bingen.
-	Die Vorlesung wird geleitet von :
-	
+Die Erstellung dieses Projekts ist Teil der Vorlesung "Informatik B" im Sommersemester 2017 an der TH Bingen.
+Die Vorlesung wird geleitet von :
+
 * [Nicolai Parlog](https://github.com/nicolaiparlog)
 
 
-	Das Schreiben des Codes dieser Simulation erfolgt auf Englisch.
-	Kommentare im Code sind auf Deutsch.
-	Konversation auf Github ist auf Deutsch.
-	Die Aufgabenstellung in der README.md wurde von Nicolai Parlog erstellt und ist daher auf Englisch, ansonsten wird in README.md Deutsch verwendet
-	
-# Lizenz und Verhaltenskodex	
+Das Schreiben des Codes dieser Simulation erfolgt auf Englisch.
+Kommentare im Code sind auf Deutsch.
+Konversation auf Github ist auf Deutsch.
+Die Aufgabenstellung in der README.md wurde von Nicolai Parlog erstellt und ist daher auf Englisch, ansonsten wird in README.md Deutsch verwendet
+
+# Lizenz und Verhaltenskodex
 
 * Verlinkung auf die [Lizenz](https://github.com/DenisBrendel/Informatik-Projekt/blob/master/LICENSE "Link auf die Textdatei")
-* Verlinkung auf den [Verhaltenskodex](https://github.com/DenisBrendel/Informatik-Projekt/blob/master/CODE_OF_CONDUCT.md "Link auf die Textdatei")	
-	
+* Verlinkung auf den [Verhaltenskodex](https://github.com/DenisBrendel/Informatik-Projekt/blob/master/CODE_OF_CONDUCT.md "Link auf die Textdatei")
+
 # Aufgabenstellung
 
 
-	Development
+## Development
 
 To develop the project, a lot of tasks have to be completed. Some requirements on how to do that:
 
@@ -39,10 +39,8 @@ To develop the project, a lot of tasks have to be completed. Some requirements o
     * make a release on GitHub
     * use Maven to build a JAR and upload it to your release
 
+## Project Infrastructure
 
-#	
-	Project Infrastructure
-	
 *   create a README.md describing the project and listing your names (they do not have to be real names if you don’t want; GitHub user names are fine as well)
 *   add a license and document it in the README
 *   decide on a language (e.g. by discussing it on the issue that belongs to this task) and document it in the README:
@@ -56,10 +54,8 @@ To develop the project, a lot of tasks have to be completed. Some requirements o
 *   set up JUnit 4 by extending pom.xml and writing a small HelloWorldTest
 *   extend the README to tell users how to launch the application
 *   release version 1.0
-	
-	
-#
-	Create a simple Traffic Simulation
+
+## Create a simple Traffic Simulation
 
 *   create a simulation consisting of cars and an abstract, monolithic road network (meaning it does not yet consist of individual roads - it’s just a single network); each car knows whether it wants to drive and the road network has a total capacity for cars; implement a single simulation step (which is supposed to represent one hour), where:
     *   each individual car announces whether it wants to drive or not
@@ -76,9 +72,7 @@ When all that's done:
 
 *   release version 2.0
 
-
-#
-	Extend Simulation to cover an entire Day
+## Extend Simulation to cover an entire Day
 
 *   randomize the decision for whether each individual car can drive or gets delayed; the chance for a delay depends on how many cars or on the road compared to the network’s capacity:
     *   less than at 50% capacity: 5% chance of delay
@@ -101,10 +95,8 @@ When all that's done:
 When all that's done:
 
 *   release version 3.0
-	
 
-	#
-Extend Simulation with various Paticipants
+## Extend Simulation with various Paticipants
 
 *   extend the simulation to allow for other traffic participants:
     *   create a suitable interface, of which the car is one implementation
