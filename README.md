@@ -16,10 +16,12 @@
 	Das Schreiben des Codes dieser Simulation erfolgt auf Englisch.
 	Kommentare im Code sind auf Deutsch.
 	Konversation auf Github ist auf Deutsch.
-	Die Aufgabenstellung in der README.md wurde von Nicolai Parlog erstellt und ist daher auf Englisch, ansonsten wird in README.md Deutsch verwendet.
-
-
+	Die Aufgabenstellung in der README.md wurde von Nicolai Parlog erstellt und ist daher auf Englisch, ansonsten wird in README.md Deutsch verwendet
 	
+# Lizenz und Verhaltenskodex	
+
+* Verlinkung auf die [Lizenz](https://github.com/DenisBrendel/Informatik-Projekt/blob/master/LICENSE "Link auf die Textdatei")
+* Verlinkung auf den [Verhaltenskodex](https://github.com/DenisBrendel/Informatik-Projekt/blob/master/CODE_OF_CONDUCT.md "Link auf die Textdatei")	
 	
 # Aufgabenstellung
 
