@@ -123,7 +123,7 @@ When all that's done:
 
 # Starten der Anwendung
 
-Die Anwendung erfolgt durch das Ausführen der .jar Datei. Die geschieht über das cmd-Tool (Windows).
+Die Anwendung erfolgt durch das Ausführen der .jar Datei. Dies geschieht über das cmd-Tool (Windows).
 Der Befehl zu Ausführen ist:
 
 java -jar "Dateipfad" (ohne "")
