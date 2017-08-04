@@ -119,3 +119,13 @@ When all that's done:
 When all that's done:
 
 *   release version 4.0
+
+
+# Starten der Anwendung
+
+Die Anwendung erfolgt durch das Ausführen der .jar Datei. Die geschieht über das cmd-Tool (Windows).
+Der Befehl zu Ausführen ist:
+
+java -jar "Dateipfad" (ohne "")
+
+Die .jar Datei erhält man durch herunterladen eines Releases.
