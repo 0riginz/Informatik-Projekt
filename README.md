@@ -23,6 +23,20 @@ Die Aufgabenstellung in der README.md wurde von Nicolai Parlog erstellt und ist 
 * Verlinkung auf die [Lizenz](https://github.com/DenisBrendel/Informatik-Projekt/blob/master/LICENSE "Link auf die Textdatei")
 * Verlinkung auf den [Verhaltenskodex](https://github.com/DenisBrendel/Informatik-Projekt/blob/master/CODE_OF_CONDUCT.md "Link auf die Textdatei")
 
+
+
+# Starten der Anwendung
+
+Die Anwendung erfolgt durch das Ausführen der .jar Datei. Dies geschieht über das cmd-Tool (Windows).
+Der Befehl zu Ausführen ist:
+
+java -jar "Dateipfad" (ohne "")
+
+Die .jar Datei erhält man durch herunterladen eines Releases.
+
+
+
+
 # Aufgabenstellung
 
 
@@ -121,11 +135,3 @@ When all that's done:
 *   release version 4.0
 
 
-# Starten der Anwendung
-
-Die Anwendung erfolgt durch das Ausführen der .jar Datei. Dies geschieht über das cmd-Tool (Windows).
-Der Befehl zu Ausführen ist:
-
-java -jar "Dateipfad" (ohne "")
-
-Die .jar Datei erhält man durch herunterladen eines Releases.
