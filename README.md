@@ -63,7 +63,7 @@ To develop the project, a lot of tasks have to be completed. Some requirements o
     *   conversation on GitHub can be English or German but must be consistent (does not have to be the same as comments)
 *   research what a code of conduct is, how it relates to open source projects, and pick one; add it as a file to the project and document it in the README
 *   create a .gitignore file that prevents adding files/folders that are specific to IntelliJ IDEA and Maven
-*   create a Maven/Kotlin project that contains a simple HelloWorld.kt class with a main method printing "Hello, World." and that successfully builds a JAR
+*   create a Maven/Kotlin project that contains a simple HelloWorld.kt class with a Traffic_Simulation.main method printing "Hello, World." and that successfully builds a JAR
 *   integrate with Travis (I’ll do that - ping me on the issue when Maven is set up)
 *   set up JUnit 4 by extending pom.xml and writing a small HelloWorldTest
 *   extend the README to tell users how to launch the application
@@ -79,7 +79,7 @@ To develop the project, a lot of tasks have to be completed. Some requirements o
         *   over capacity ~> all are delayed
 *   write a scenario function that simulates a scenario with about a dozen cars
 *   let the cars keep track of whether they can drive or were delayed and print that information at the end of the simulation
-*   write the main program, which uses Univocity Parsers to parse input (cars and their interest to drive) and write resulting data (drive vs delay) as CSV (this does not touch on the scenario function, which should be kept around)
+*   write the Traffic_Simulation.main program, which uses Univocity Parsers to parse input (cars and their interest to drive) and write resulting data (drive vs delay) as CSV (this does not touch on the scenario function, which should be kept around)
 *   extend the README by writing a user documentation, explaining users how to use the program
 
 When all that's done:
