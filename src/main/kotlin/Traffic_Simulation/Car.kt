@@ -1,15 +1,13 @@
-package Traffic_Simulation
+package traffic_simulation
 
 
 class Car(var name: String, var DriveOrNot: Boolean) {
 
-    fun NewCar(name: String, DriveOrNot: Boolean): Car {
 
-        return NewCar(name, DriveOrNot)
+
+    override fun toString(): String {
+        return "Car(name='$name', DriveOrNot=$DriveOrNot)"
     }
 
-    fun DriveOrNot(): Boolean {
 
-        return Boolean
-    }
 }
